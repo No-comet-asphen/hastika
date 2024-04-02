@@ -1,0 +1,132 @@
+.innovative-holistic-cancer {
+  margin: 0;
+}
+.hkd-cancer-immunotherapy-container,
+.through-our-technology-based-container {
+  position: absolute;
+  top: 0;
+  left: 83px;
+  font-size: var(--font-size-base);
+  line-height: 30px;
+  display: inline-block;
+  width: 688px;
+  height: 150px;
+}
+.through-our-technology-based-container {
+  top: 168px;
+  width: 711px;
+  height: 158px;
+}
+.desktop-4-child {
+  position: absolute;
+  top: 0;
+  left: 842px;
+  width: 476px;
+  height: 326px;
+  object-fit: cover;
+}
+.desktop-4-item {
+  position: absolute;
+  top: 419px;
+  left: -6px;
+  width: 1446px;
+  height: 519px;
+}
+.personalized-nutrition-and-container,
+.the-ongoing-development {
+  position: absolute;
+  top: 453px;
+  left: 93px;
+  line-height: 25px;
+  font-weight: 500;
+  display: inline-block;
+  width: 933px;
+  height: 52px;
+}
+.personalized-nutrition-and-container {
+  top: 517px;
+  left: 130px;
+  width: 785px;
+  height: 53px;
+}
+.community-support-networks-container,
+.cost-effective-solutions-reso-container,
+.mindfulness-and-mental-container {
+  position: absolute;
+  top: 610px;
+  left: 130px;
+  line-height: 25px;
+  font-weight: 500;
+  display: inline-block;
+  width: 785px;
+  height: 53px;
+}
+.community-support-networks-container,
+.cost-effective-solutions-reso-container {
+  top: 688px;
+}
+.cost-effective-solutions-reso-container {
+  top: 765px;
+}
+.desktop-4-inner {
+  position: absolute;
+  top: 868px;
+  left: 0;
+  background-color: var(--color-lavenderblush);
+  width: 1452px;
+  height: 102px;
+  display: none;
+}
+.accessible-education-easy-to-container {
+  position: absolute;
+  top: 849px;
+  left: 128px;
+  line-height: 25px;
+  font-weight: 500;
+  display: inline-block;
+  width: 785px;
+  height: 53px;
+}
+.desktop-4-child1 {
+  position: absolute;
+  top: 526px;
+  left: 84px;
+  width: 18px;
+  height: 18px;
+}
+.desktop-4-child2,
+.desktop-4-child3,
+.desktop-4-child4,
+.ellipse-div {
+  position: absolute;
+  top: 613px;
+  left: 84px;
+  border-radius: 50%;
+  background-color: var(--color-deeppink);
+  width: 18px;
+  height: 18px;
+}
+.desktop-4-child2,
+.desktop-4-child3,
+.desktop-4-child4 {
+  top: 699px;
+}
+.desktop-4-child3,
+.desktop-4-child4 {
+  top: 774px;
+}
+.desktop-4-child4 {
+  top: 855px;
+  left: 83px;
+}
+.desktop-4 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

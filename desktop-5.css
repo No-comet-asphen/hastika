@@ -1,0 +1,90 @@
+.about-us1 {
+  position: absolute;
+  top: 0;
+  left: 89px;
+  line-height: 25px;
+  display: inline-block;
+  width: 195px;
+  height: 44px;
+}
+.desktop-5-child {
+  position: absolute;
+  top: 43px;
+  left: 89px;
+  width: 185px;
+  height: 1px;
+  object-fit: contain;
+}
+.blank-line {
+  margin: 0;
+}
+.hkd-cancer-immunotherapy-container1 {
+  position: absolute;
+  top: 100px;
+  left: 89px;
+  font-size: var(--font-size-xl);
+  line-height: 30px;
+  display: inline-block;
+  width: 1256px;
+  height: 552px;
+}
+.desktop-5-item,
+.founder {
+  position: absolute;
+  left: 89px;
+}
+.founder {
+  top: 668px;
+  line-height: 30px;
+  display: inline-block;
+  width: 426px;
+  height: 84px;
+}
+.desktop-5-item {
+  top: 752px;
+  background-color: var(--color-pink-200);
+  width: 1283px;
+  height: 284px;
+}
+.miss-h-k,
+.miss-hk-devda {
+  position: absolute;
+  top: 811px;
+  left: 129px;
+  line-height: 30px;
+  display: inline-block;
+  width: 347px;
+  height: 75px;
+}
+.miss-h-k {
+  top: 908px;
+  left: 164px;
+  font-size: var(--font-size-xl);
+  width: 538px;
+  height: 274px;
+}
+.dr-mary-roary {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.dr-mary-roary-container {
+  position: absolute;
+  top: 908px;
+  left: 866px;
+  font-size: var(--font-size-xl);
+  line-height: 30px;
+  display: inline-block;
+  width: 353px;
+  height: 121px;
+}
+.desktop-5 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
