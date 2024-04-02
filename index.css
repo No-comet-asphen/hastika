@@ -1,0 +1,87 @@
+.desktop-1-child {
+  position: absolute;
+  top: 133px;
+  left: 0;
+  width: 1464px;
+  height: 736px;
+  object-fit: cover;
+}
+.desktop-1-item {
+  position: absolute;
+  top: 210px;
+  left: 61px;
+  background-color: var(--color-pink-200);
+  width: 613px;
+  height: 543px;
+}
+.revolutionizing-cancer-treatme {
+  position: absolute;
+  top: 288px;
+  left: 85px;
+  font-size: var(--font-size-29xl);
+  line-height: 60px;
+  font-family: var(--font-mplus-1p);
+  display: inline-block;
+  width: 532px;
+  height: 303px;
+}
+.our-mission-is-to {
+  margin: 0;
+}
+.our-mission-is-container {
+  position: absolute;
+  top: 607px;
+  left: 84px;
+  font-family: var(--font-lato);
+  display: inline-block;
+  width: 533px;
+  height: 123px;
+}
+.about-us,
+.contact,
+.hkd-cancer-immunotherapy,
+.info {
+  position: absolute;
+  top: 58px;
+  left: 61px;
+  font-weight: 500;
+  display: inline-block;
+  width: 373px;
+  height: 30px;
+}
+.about-us,
+.contact,
+.info {
+  left: 1028px;
+  width: 101px;
+  height: 24px;
+}
+.contact,
+.info {
+  left: 902px;
+  width: 53px;
+}
+.contact {
+  top: 60px;
+  left: 1188px;
+  width: 88px;
+  height: 22px;
+}
+.desktop-1-inner {
+  position: absolute;
+  top: 298px;
+  left: 457.5px;
+  max-height: 100%;
+  width: 149px;
+}
+.desktop-1 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
