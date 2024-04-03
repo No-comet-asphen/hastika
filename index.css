@@ -42,16 +42,20 @@
 .hkd-cancer-immunotherapy,
 .info {
   position: absolute;
-  top: 58px;
-  left: 61px;
   font-weight: 500;
   display: inline-block;
-  width: 687px;
-  height: 42px;
+}
+.hkd-cancer-immunotherapy {
+  top: 55px;
+  left: 61px;
+  font-size: 32px;
+  width: 607px;
+  height: 46px;
 }
 .about-us,
 .contact,
 .info {
+  top: 58px;
   left: 1028px;
   width: 101px;
   height: 24px;
