@@ -90,3 +90,29 @@ html{scroll-behavior: smooth;}
   color: var(--color-black);
   font-family: var(--font-inter);
 }
+a {
+}
+#about-us,
+   a:link
+{
+ color: #000000;
+ text-decoration: none;
+}
+
+#about-us,
+  a:active
+{
+ color: rgb(0, 0, 0);
+ text-decoration: none;
+}
+
+#about-us   a:visited
+{
+ color: #000000;
+ text-decoration: none;
+}
+#about-us a:hover
+{
+ color: #000000;
+ text-decoration: none;
+}
