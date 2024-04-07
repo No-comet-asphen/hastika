@@ -1,0 +1,80 @@
+.empowering-patients-through,
+.patients1 {
+  position: absolute;
+  line-height: 30px;
+  display: inline-block;
+}
+.patients1 {
+  top: 40px;
+  left: 98px;
+  font-size: var(--font-size-21xl);
+  width: 438px;
+  height: 134px;
+}
+.empowering-patients-through {
+  top: 114px;
+  left: 93px;
+  font-weight: 600;
+  width: 852px;
+  height: 55px;
+}
+.welcome-to-hkd {
+  margin: 0;
+}
+.chimeric-antigen-receptor {
+  font-weight: 600;
+}
+.cell-therapy-and,
+.chimeric-antigen-receptor {
+  font-family: var(--font-inter);
+}
+.at-hkd-we-container,
+.welcome-to-hkd-container {
+  position: absolute;
+  top: 192px;
+  left: 90px;
+  line-height: 30px;
+  display: inline-block;
+  width: 1196px;
+  height: 145px;
+}
+.at-hkd-we-container {
+  top: 366px;
+  width: 1246px;
+  height: 146px;
+}
+.at-hkd-cancer-container,
+.experience-the-difference,
+.through-our-dedication-container {
+  position: absolute;
+  top: 527px;
+  left: 98px;
+  line-height: 30px;
+  display: inline-block;
+  width: 1238px;
+  height: 122px;
+}
+.at-hkd-cancer-container,
+.experience-the-difference {
+  top: 686px;
+  left: 96px;
+  width: 1240px;
+  height: 124px;
+}
+.experience-the-difference {
+  top: 833px;
+  left: 105px;
+  width: 1222px;
+  height: 110px;
+}
+.desktop-5 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

@@ -1,0 +1,99 @@
+.donation1,
+.join-us-in {
+  left: 106px;
+  display: inline-block;
+}
+.donation1 {
+  position: absolute;
+  top: 16px;
+  font-size: var(--font-size-21xl);
+  line-height: 30px;
+  width: 236px;
+  height: 52px;
+}
+.join-us-in {
+  top: 90px;
+  font-weight: 600;
+  width: 1074px;
+  height: 34px;
+}
+.at-hkd-cancer1,
+.join-us-in,
+.why-be-a {
+  position: absolute;
+  line-height: 30px;
+}
+.at-hkd-cancer1 {
+  top: 163px;
+  left: 106px;
+  display: inline-block;
+  width: 1135px;
+  height: 95px;
+}
+.why-be-a {
+  top: 296px;
+  left: 108px;
+  font-weight: 600;
+}
+.your-contribution-whether {
+  position: absolute;
+  top: 350px;
+  left: 106px;
+  line-height: 30px;
+  display: inline-block;
+  width: 1142px;
+  height: 121px;
+}
+.how-your-donation {
+  position: absolute;
+  top: 522px;
+  left: 105px;
+  line-height: 30px;
+  font-weight: 600;
+}
+.immunotherapy-especially-for {
+  margin: 0;
+}
+.chimeric-antigen-receptor1 {
+  font-weight: 600;
+}
+.and-other-fda-approved,
+.chimeric-antigen-receptor1 {
+  font-family: var(--font-inter);
+}
+.immunotherapy-especially-for-container {
+  position: absolute;
+  top: 590px;
+  left: 106px;
+  line-height: 30px;
+  display: inline-block;
+  width: 1173px;
+  height: 184px;
+}
+.in-simple-terms,
+.why-immunotherapy-matters {
+  position: absolute;
+  left: 105px;
+  line-height: 30px;
+}
+.why-immunotherapy-matters {
+  top: 819px;
+  font-weight: 600;
+}
+.in-simple-terms {
+  top: 868px;
+  display: inline-block;
+  width: 1168px;
+  height: 108px;
+}
+.desktop-6 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

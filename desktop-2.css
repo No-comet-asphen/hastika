@@ -1,0 +1,89 @@
+.desktop-2-child {
+  position: absolute;
+  top: 64px;
+  left: 870px;
+  width: 478px;
+  height: 292px;
+  object-fit: cover;
+}
+.desktop-2-item {
+  position: absolute;
+  top: 78px;
+  left: 80px;
+  max-height: 100%;
+  width: 220px;
+}
+.what-is-immunotherapy {
+  position: absolute;
+  top: 96px;
+  left: 80px;
+  font-size: var(--font-size-29xl);
+  line-height: 60px;
+  display: inline-block;
+  width: 706px;
+  height: 80px;
+}
+.immunotherapy-is-a {
+  position: absolute;
+  top: 176px;
+  left: 88px;
+  line-height: 30px;
+  display: inline-block;
+  width: 716px;
+  height: 200px;
+}
+.desktop-2-inner {
+  position: absolute;
+  top: 487px;
+  left: 0;
+  background-color: var(--color-pink-100);
+  width: 1440px;
+  height: 418px;
+}
+.how-can-cancer {
+  position: absolute;
+  top: 533px;
+  left: 88px;
+  font-size: var(--font-size-21xl);
+  display: inline-block;
+  width: 706px;
+  height: 111px;
+}
+.vector-icon {
+  position: absolute;
+  top: 589px;
+  left: 419px;
+  max-height: 100%;
+  width: 323px;
+}
+.cancer-immunotherapy-is {
+  margin: 0;
+}
+.cancer-immunotherapy-is-container {
+  position: absolute;
+  top: 658px;
+  left: 84px;
+  line-height: 30px;
+  text-align: justify;
+  display: inline-block;
+  width: 1182px;
+  height: 178px;
+}
+.our-focus-areas {
+  position: absolute;
+  top: 950px;
+  left: 584px;
+  font-size: var(--font-size-21xl);
+  text-align: center;
+}
+.desktop-2 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
