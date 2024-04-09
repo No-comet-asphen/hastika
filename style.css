@@ -102,3 +102,4 @@
   color: var(--color-black);
   font-family: var(--font-inter);
 }
+.donation.about-us.contact .info.patients { a:link{text-decoration:none ;}}
