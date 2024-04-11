@@ -102,4 +102,26 @@
   color: var(--color-black);
   font-family: var(--font-inter);
 }
-.donation.about-us.contact .info.patients a {text-decoration: none;}
+a:link{text-decoration: none;}
+a:visited {color: black;}
+a:hover {color: black;}
+a:active{color:black}
+a:after{
+  content: "";
+  position: absolute;
+  background-color: 
+  #ff4392;
+  height: 3px;
+  width: 0;
+  left: 0;
+  bottom: -10px;
+  transition: 0.3s;
+}
+a:hover{
+  color: 
+  #000000;
+}
+a:hover:after{
+  width: 100%;
+}
+
